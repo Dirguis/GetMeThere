@@ -1,0 +1,64 @@
+
+html, body {
+    height: 100%;
+    background-color: #333;
+    background-image: url("'../static/Images/bgPic.jpg'");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity:1;
+    overflow:scroll;
+    margin:0;
+    padding:0;
+}
+
+/*
+* {
+    border: 1px dashed black;
+}*/
+
+.centerGoogleMap{
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  padding-left: 50px
+}
+
+.center {
+  margin-left: auto;
+  margin-right:auto;
+  width: 70%;
+}
+
+.first-column {
+  width: 40%;
+  float: left;
+}
+
+.second-column {
+  width: 40%;
+  float: right;
+}
+
+
+.weatherFloat{
+    float: right;
+    width: 49%;
+}
+
+.googleMapFloat{
+    float: left;
+    width: 49%;
+}
+
+
+.div100Percent{
+    width: 100%;
+}
+
+.divMapWeather{
+    display: inline-block;
+}
+
+
+
