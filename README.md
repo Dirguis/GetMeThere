@@ -18,3 +18,6 @@ app folder
   - Regression: folder containing the fits
   - LoadFiles: various files to be loaded for the fit, in PredictFare.py
   - static: css, js, fonts and Images used in
+
+
+Note: Please, input your own google api key on line 251 and weather underground api key on lines 129 and 99 to make the app run.
